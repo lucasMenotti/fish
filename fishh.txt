@@ -1,0 +1,9 @@
+jogo singleplayer estilo codycross
+
+singlepayer
+animais marinhos vao ser os npc
+concha = 2 pontos
+estrela do mar = 4 pontos
+a cada passo gfanha 1 ponto
+tentar fazer o maximo de ponto possivel
+vista horizontal
